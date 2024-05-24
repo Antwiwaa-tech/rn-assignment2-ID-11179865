@@ -21,5 +21,10 @@ const styles = StyleSheet.create({
     fontSize:'24px',
     color:'white',
   },
+  text:{
+    fontSize:'24px',
+    color:'white',
+  },
+  
   
 });
